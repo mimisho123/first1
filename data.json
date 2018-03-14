@@ -1,0 +1,27 @@
+{
+  "basics":{
+    "name":"Emebet"
+  },
+    "career":{
+      "data":"career objective"
+    },
+    "education":[
+      {
+        "degree":"B-Tech(c.s.e)",
+        "college":"SVCET",
+        "data":["2015-19","70%"]
+      },
+      {
+        "degree":"intermediate(m.p.c)",
+        "college":"Nobel Academy",
+        "data":["2013-15","81%"]
+
+      },
+      {
+        "degree":"s.s.c",
+        "college":"sitams college",
+        "data":["2010-12","81%"]
+      }
+
+    ]
+}
